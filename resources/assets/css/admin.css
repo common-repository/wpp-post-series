@@ -1,0 +1,15 @@
+.taxonomy-post_series .series-list {
+    border: 1px dashed lightgray;
+    margin: 0;
+    padding: 5px 10px;
+}
+
+.taxonomy-post_series .series-count {
+    font-size: 12px;
+    margin: 5px 0 0 0;
+    color: gray;
+}
+
+.series-settings-tabs-wrapper {
+    grid-template-columns: auto;
+}
